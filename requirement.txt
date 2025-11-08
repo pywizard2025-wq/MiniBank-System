@@ -1,3 +1,2 @@
-streamlit
-passlib
-sqlite3-binary
+streamlit==1.39.0
+passlib==1.7.4
