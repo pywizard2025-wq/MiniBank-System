@@ -68,13 +68,16 @@ The project automatically creates a local bank.db SQLite file.
 
 You don’t need to upload it to GitHub — it’s generated when you first run the app.
 
-🌍 Deployment (Optional)
+🌍 Deployment
 
 You can deploy your Streamlit app for free using:
 
 Streamlit Community Cloud
 
 Just upload your repo, set the main file as bank_ui.py, and you’re live 🚀
+
+🎯 **Live App:** (https://minibank-system.streamlit.app)
+
 
 🧑‍💻 Author
 
