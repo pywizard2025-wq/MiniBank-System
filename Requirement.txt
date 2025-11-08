@@ -1,0 +1,2 @@
+streamlit==1.39.0
+passlib[bcrypt]==1.7.4
