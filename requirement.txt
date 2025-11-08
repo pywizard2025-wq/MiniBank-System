@@ -1,5 +1,3 @@
 streamlit
-bcrypt==4.0.1
-cffi
-
-
+passlib
+sqlite3-binary
